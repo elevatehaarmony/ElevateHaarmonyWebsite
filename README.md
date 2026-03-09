@@ -6,8 +6,3 @@ The goal of the website is to:
 
 Promote Vastu consultation services
 
-Educate visitors through blogs and content
-
-Generate consultation leads
-
-Improve search engine visibility through SEO optimization
